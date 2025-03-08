@@ -1,6 +1,6 @@
 # Hi there, I'm Vaibhav Sharma! 👋
 
-![Profile Banner](https://github.com/devftkrshna/devftkrshna/raw/main/banner.png)  
+![Profile Banner](https://github.com/devftkrshna/devftkrshna/blob/main/github-header-image.png)  
 
 ## 🚀 About Me
 I'm a passionate developer interested in AI, full-stack development, and competitive programming. I love solving real-world problems through technology and constantly exploring new domains.
