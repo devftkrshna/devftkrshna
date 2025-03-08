@@ -1,5 +1,3 @@
-# Hi there, I'm Vaibhav Sharma! 👋
-
 ![Profile Banner](https://github.com/devftkrshna/devftkrshna/blob/main/github-header-image.png)  
 
 ## 🚀 About Me
