@@ -7,7 +7,7 @@ I'm a passionate developer interested in AI, full-stack development, and competi
 - 💻 **GATE 2025 Candidate** | **ML & Web Enthusiast**  
 - 📚 **Currently Learning:** Full Stack, System Design, and Advanced DSA  
 - 🏆 **Published Research** in AI-driven Early Diabetes Prediction: [IEEE Explore: View Here](https://ieeexplore.ieee.org/document/10730970)  
-- 🔬 **Projects:** [AI-driven diabetes prediction](https://github.com/devftkrshna/ai-driven-early-diabetes-prediction-using-ml), [Sentiment Analysis](https://github.com/devftkrshna/social-media-sentiment-analysis), [Stack Game Using JS](https://github.com/devftkrshna/stack-game-using-js)
+- 🔬 **Projects:** [AI-driven diabetes prediction](https://github.com/devftkrshna/ai-driven-early-diabetes-prediction-using-ml), [Sentiment Analysis](https://github.com/devftkrshna/social-media-sentiment-analysis), [Stack Game Using JS](https://github.com/devftkrshna/stack-game-using-js)  
 
 ## 🛠️ Tech Stack
 - **Languages:**  
@@ -26,7 +26,6 @@ I'm a passionate developer interested in AI, full-stack development, and competi
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Cloud Computing](https://img.shields.io/badge/Cloud-FF9900?style=for-the-badge&logo=cloud&logoColor=white)  
 
 ## 📫 Let's Connect
-- 💼 [LinkedIn](https://linkedin.com/in/vaibhavsharma445)  
-- 📧 [Email](mailto:work.vaibhavsharmaa@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhavsharma445) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/devftkrshna/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.vaibhavsharmaa@gmail.com) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/devftkrshna) 
 
-💙 _Open to collaborations, opportunities, and new ideas!_
+** _Open to collaborations, opportunities, and new ideas!_**
